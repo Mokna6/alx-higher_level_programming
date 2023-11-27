@@ -1,10 +1,11 @@
-. Run inline
-mandatory
-Write a Shell script that runs Python code.
+0x00. Python - Hello, World
+Python
+ By: Guillaume
+ Weight: 1
+ Project will start Nov 27, 2023 5:00 AM, must end by Nov 28, 2023 5:00 AM
+ Checker was released at Nov 27, 2023 11:00 AM
+ An auto review will be launched at the deadline
+Concepts
+For this project, we expect you to look at this concept:
 
-The Python code will be saved in the environment variable $PYCODE
-
-guillaume@ubuntu:~/py/0x00$ export PYCODE='print(f"Best School: {88+10}")'
-guillaume@ubuntu:~/py/0x00$ ./1-run_inline 
-Best School: 98
-guillaume@ubuntu:~/py/0x00$ 
+Python programming
